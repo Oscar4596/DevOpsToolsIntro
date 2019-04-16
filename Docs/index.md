@@ -7,6 +7,7 @@ Como mencioné previamente esto no es un guía exhaustiva, sino una introducció
 - [Linux and Shell](linux.md)
 - Scripting
 - Infrastructure as Code
+- Configuration Management
 - CI/CD
 - Orchestración
 - Monitoreo y Logs Management
