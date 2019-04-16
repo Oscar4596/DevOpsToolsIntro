@@ -29,6 +29,7 @@ Con ese ejemplo podemos ver las cosas con las que no tendríamos que lidiar si s
 
 Básicamente, Git funciona de la siguiente manera:
 ![gitlocal](https://git-scm.com/figures/18333fig0106-tn.png)
+
 Tenemos unos archivos locales, que a medida que vamos modificando, los vamos agregando a un *staging area*, cuando queremos que esos cambios que hemos hecho se guarden en una versión, hacemos un commit de esos archivos, y los guardamos en el repositorio.
 
 #### Ver también: [What is git?](https://es.atlassian.com/git/tutorials/what-is-git)
@@ -129,3 +130,4 @@ Para descargar los cambios.
 - [Getting started with git](https://www.taniarascia.com/getting-started-with-git/)
 - [Git Book](https://git-scm.com/book/es/v2)
 - [Tutoriales de Git](https://es.atlassian.com/git/tutorials)
+- [Otro libro](https://books.goalkicker.com/GitBook/)
