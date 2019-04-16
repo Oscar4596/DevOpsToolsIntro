@@ -7,9 +7,12 @@ Comencemos con lo más importante **¿Qué es Git?**
 ## Indice
 
 - [Intro a Git](#Git)
-- [¿Cómo funciona Git?]()
+- [¿Cómo funciona Git?](#cómo-funciona-git)
 - [Instalar Git](#instalar-git)
 - [Usar Git](#usar-git)
+    - [Comandos básicos de Git](#algunos-comandos-básicos-de-git)
+    - [Comandos básicos de Linux](#comandos-básicos-de-linux)
+- [Enlaces externos](#enlaces-externos)
 
 ---
 
@@ -123,6 +126,16 @@ Si se llegaran a hacer algunos cambios al repositorio los queremos tener en nuet
 $ git pull
 ```
 Para descargar los cambios.
+
+## Resumen
+
+|Acción                             |Comando     |
+|----------                         |----------|
+|Guardar archivos en repositorio    |```git add <ubicación del archivo>``` |
+|                                   |```git commit -m "mensaje"         ```|
+|                                   |```git push```                        |
+|Bajar un repositorio               | ```git clone <URL del repositorio>```|
+|Bajar cambios del repositorio      |```git pull```                        |
 
 
 # Enlaces externos
