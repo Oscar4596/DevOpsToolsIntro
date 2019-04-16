@@ -12,7 +12,7 @@ Para mí, la definición que más se ajusta a lo que yo he experimentado que es 
 
 La idea es hacer que los sistemas y el *software* sean ágiles, y que la barrera que divide el desarrollo -es decir, *software*- (Dev), y las Operaciones -a.k.a sistemas- (Ops).
 
-[Imagen]
+![Imagen](http://burrsutter.kudzucreative.com/wp-content/uploads/2017/08/devops_wallofconfusion_b.gif)
 
 Sí, muy bonito y todo, pero... ¿Cómo llegamos a eso? Bien, pues es por eso que necesitamos ciertas habilidades y herramientas, y en efecto, alguien que haga uso de estas. Acá es en dónde entra el Ingeniero DevOps, y donde entra la ambigüedad ya que DevOps es una cultura y a la vez un cargo.
 

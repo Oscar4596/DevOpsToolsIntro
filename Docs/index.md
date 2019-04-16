@@ -4,7 +4,7 @@ Como mencioné previamente esto no es un guía exhaustiva, sino una introducció
 
 - [Git and Gitflow](git.md)
 - [Virtualización](virtualization.md)
-- [Linux adn Shell](linux.md)
+- [Linux and Shell](linux.md)
 - Scripting
 - Infrastructure as Code
 - CI/CD
