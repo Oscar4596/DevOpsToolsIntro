@@ -18,7 +18,7 @@ Comencemos con lo más importante **¿Qué es Git?**
 
 ## Git
 
-Git es importante porque permite llevar un control de todos los cambios que lleva un código, es como una base de datos de todas las versiones que ha llevado nuestro código; y es muy importante porque generalmente los proyectos involucran a más de una persona, y estas personas necesitan acceso al mismo código fuente, lo que lleva consigo muchas responsabilidades,
+Git es importante porque permite llevar un control de todos los cambios que lleva un código, es como una base de datos de todas las versiones que ha llevado nuestro código; y es muy importante porque generalmente los proyectos involucran a más de una persona, y estas personas necesitan acceso al mismo código fuente, lo que lleva consigo muchas responsabilidades, q
 
 Para ejemplificar esto de manera sencilla, mostraré la siguiente situación:
 
@@ -121,7 +121,7 @@ $ git push origin master
 
 Con esto ya hemos creado un repositorio y añadido algunas cosas a él. 
 
-Si se llegaran a hacer algunos cambios al repositorio los queremos tener en nuetra máquina local basta con correr
+Si se llegaran a hacer algunos cambios al repositorio y los queremos tener en nuetra máquina local basta con correr
 ```
 $ git pull
 ```
