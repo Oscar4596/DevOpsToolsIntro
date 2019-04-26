@@ -2,7 +2,7 @@
 
 Como mencioné previamente esto no es un guía exhaustiva, sino una introducción a las habilidades y herramientas más comunes en DevOps:
 
-- Initial tools
+- [Initial tools](initial_tools.md)
 - [Git and Gitflow](git.md)
 - [Virtualización](virtualization.md)
 - [Linux and Shell](linux.md)
