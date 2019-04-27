@@ -8,9 +8,11 @@ El objetivo de este repositorio, o bien, guía, o bien, bitácora o Blog, o Post
 
 La definición de DevOps no es algo sencillo de dar -como se pudieron dar cuenta en la introducción que acabo de dar-, generalmente porque dependiendo de la empresa y el contexto suele tener un significado diferente.
 
-Para mí, la definición que más se ajusta a lo que yo he experimentado que es DevOps es que es una forma de trabajar que integra a las personas en equipos multifuncionales; para construir, desplegar y operar sistemas de *software*, como un flujo que se pueda ver y medir en una manera continua y sostenible. 
+Para mí, la definición que más se ajusta a lo que yo he experimentado que es DevOps es que es una forma de trabajar que integra a las personas en equipos multifuncionales; para construir, desplegar y operar sistemas de *software*, como un flujo que se pueda ver y medir en una manera continua, sostenible y automatizada. 
 
-La idea es hacer que los sistemas y el *software* sean ágiles, y que la barrera que divide el desarrollo -es decir, *software*- (Dev), y las Operaciones -a.k.a sistemas- (Ops) sea invisible y que por el contrario trabajen juntos en el ciclo de desarrollo de SoftWare.
+![DevOps.png](https://devskiller.com/wp-content/uploads/2018/04/DevOps.png)
+
+La idea es hacer que los sistemas y el *software* sean ágiles, y que la barrera que divide el desarrollo -es decir, *software*- (Dev), y las Operaciones -a.k.a sistemas- (Ops) sea invisible y que por el contrario trabajen juntos en el ciclo de desarrollo de Software de manera automática. De esta manera se genera valor más continuamente 
 
 ![Imagen](http://burrsutter.kudzucreative.com/wp-content/uploads/2017/08/devops_wallofconfusion_b.gif)
 
