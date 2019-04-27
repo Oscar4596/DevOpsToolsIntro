@@ -30,6 +30,6 @@ Aceptemoslo, la ventana de comandos de Windows es la cagada. Siempre es bueno te
 
 No puedes evitarlo, tienes que trabajar linux. Windows permite correr otros sistemas operativos en máquinas virtuales.
 Un virtualizador gratuito por excelencia es [VirtualBox](https://www.virtualbox.org/), bastaría con conseguir la imágenes de los sistemas operativos, y tener los requerimientos de sistema para correrlo.
-Sin embargo, hay una herramienta mucho más versátil para tener máquinas virtuales para correr pruebas, y crear entornos virtuales, y es [Vagrant](https://www.vagrantup.com/), es muy fácil de instalar y manejar y probablemente sea tu mejor amigo cuando quieras probar nuevas cosas sin mucho problema provisionando una máquina sin tener que instalar todo por tu cuenta, todo sobre como usarlo está en la [documentación](https://www.vagrantup.com/intro/index.html).
+Sin embargo, hay una herramienta mucho más versátil para tener máquinas virtuales para correr pruebas, y crear entornos virtuales, y es [Vagrant](https://www.vagrantup.com/), es muy fácil de [instalar](https://www.vagrantup.com/intro/getting-started/index.html) y manejar y probablemente sea tu mejor amigo cuando quieras probar nuevas cosas sin mucho problema provisionando una máquina sin tener que instalar todo por tu cuenta, todo sobre como usarlo está en la [documentación](https://www.vagrantup.com/intro/index.html).
 
 [Volver al índice](index.md)
