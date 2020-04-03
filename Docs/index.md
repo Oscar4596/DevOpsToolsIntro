@@ -5,7 +5,7 @@ Como mencioné previamente esto no es un guía exhaustiva, sino una introducció
 - [Initial tools](initial_tools.md)
 - [Linux and Shell](linux.md)
 - [Git and Gitflow](git.md)
-- [Virtualización](virtualization.mc)
+- [Virtualización](virtualization.md)
 - Scripting
 - Infrastructure as Code
 - Configuration Management
